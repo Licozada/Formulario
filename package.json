@@ -1,0 +1,30 @@
+{
+  "name": "formulario",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Licozada/Formulario.git"
+  },
+  "keywords": [
+    "\"node\"",
+    "\"http\"",
+    "\"express\"",
+    "\"post\""
+  ],
+  "author": "liandre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Licozada/Formulario/issues"
+  },
+  "homepage": "https://github.com/Licozada/Formulario#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
